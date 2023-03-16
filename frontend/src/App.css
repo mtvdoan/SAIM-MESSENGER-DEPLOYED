@@ -1,0 +1,8 @@
+
+.bg_image{
+  background-image: url('./images/bliss.jpg');
+  background-size: cover;
+  height: 100lvw;
+  
+  color: #f5f5f5;
+}
